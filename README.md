@@ -178,7 +178,7 @@ xGrid.refresh();
 ```
 
 
-**Teste**
+**Teste1**
 - reloads xGrid data
 - recarrega os dados da xGrid
 ```javascript
